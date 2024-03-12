@@ -1,6 +1,6 @@
 {
   "name": "onedionys-modal-dialog-component",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Modal Dialog Component) - A component to display a modal dialog with additional messages or content.",
   "main": "src/modal-dialog.js",
   "directories": {
